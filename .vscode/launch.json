@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Recursohumanog35Application<recursohumanog35>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "co.usa.recursohumanog35.recursohumanog35.model.Recursohumanog35Application",
+            "projectName": "recursohumanog35",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Recursohumanog35Application<recursohumanog35>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "Recursohumanog35Application",
+            "projectName": "recursohumanog35",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Recursohumanog35Application<recursohumanog35>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "co.usa.recursohumanog35.recursohumanog35.Recursohumanog35Application",
+            "projectName": "recursohumanog35",
+            "args": ""
+        }
+    ]
+}
